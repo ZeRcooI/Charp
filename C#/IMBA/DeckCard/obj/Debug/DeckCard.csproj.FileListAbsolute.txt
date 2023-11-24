@@ -1,0 +1,7 @@
+D:\Программирование\IJunior\IMBA\DeckCard\bin\Debug\DeckCard.exe.config
+D:\Программирование\IJunior\IMBA\DeckCard\bin\Debug\DeckCard.exe
+D:\Программирование\IJunior\IMBA\DeckCard\bin\Debug\DeckCard.pdb
+D:\Программирование\IJunior\IMBA\DeckCard\obj\Debug\DeckCard.csproj.AssemblyReference.cache
+D:\Программирование\IJunior\IMBA\DeckCard\obj\Debug\DeckCard.csproj.CoreCompileInputs.cache
+D:\Программирование\IJunior\IMBA\DeckCard\obj\Debug\DeckCard.exe
+D:\Программирование\IJunior\IMBA\DeckCard\obj\Debug\DeckCard.pdb

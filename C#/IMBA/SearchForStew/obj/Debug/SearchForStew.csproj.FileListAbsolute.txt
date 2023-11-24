@@ -1,0 +1,7 @@
+D:\Программирование\IJunior\IMBA\SearchForStew\bin\Debug\SearchForStew.exe.config
+D:\Программирование\IJunior\IMBA\SearchForStew\bin\Debug\SearchForStew.exe
+D:\Программирование\IJunior\IMBA\SearchForStew\bin\Debug\SearchForStew.pdb
+D:\Программирование\IJunior\IMBA\SearchForStew\obj\Debug\SearchForStew.csproj.AssemblyReference.cache
+D:\Программирование\IJunior\IMBA\SearchForStew\obj\Debug\SearchForStew.csproj.CoreCompileInputs.cache
+D:\Программирование\IJunior\IMBA\SearchForStew\obj\Debug\SearchForStew.exe
+D:\Программирование\IJunior\IMBA\SearchForStew\obj\Debug\SearchForStew.pdb

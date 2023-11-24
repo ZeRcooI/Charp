@@ -1,0 +1,7 @@
+D:\Программирование\IJunior\IMBA\ZooHOME\bin\Debug\ZooHOME.exe.config
+D:\Программирование\IJunior\IMBA\ZooHOME\bin\Debug\ZooHOME.exe
+D:\Программирование\IJunior\IMBA\ZooHOME\bin\Debug\ZooHOME.pdb
+D:\Программирование\IJunior\IMBA\ZooHOME\obj\Debug\ZooHOME.csproj.AssemblyReference.cache
+D:\Программирование\IJunior\IMBA\ZooHOME\obj\Debug\ZooHOME.csproj.CoreCompileInputs.cache
+D:\Программирование\IJunior\IMBA\ZooHOME\obj\Debug\ZooHOME.exe
+D:\Программирование\IJunior\IMBA\ZooHOME\obj\Debug\ZooHOME.pdb

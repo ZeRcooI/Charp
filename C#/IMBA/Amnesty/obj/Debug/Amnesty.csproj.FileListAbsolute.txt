@@ -1,0 +1,7 @@
+D:\Программирование\IJunior\IMBA\Amnesty\bin\Debug\Amnesty.exe.config
+D:\Программирование\IJunior\IMBA\Amnesty\bin\Debug\Amnesty.exe
+D:\Программирование\IJunior\IMBA\Amnesty\bin\Debug\Amnesty.pdb
+D:\Программирование\IJunior\IMBA\Amnesty\obj\Debug\Amnesty.csproj.AssemblyReference.cache
+D:\Программирование\IJunior\IMBA\Amnesty\obj\Debug\Amnesty.csproj.CoreCompileInputs.cache
+D:\Программирование\IJunior\IMBA\Amnesty\obj\Debug\Amnesty.exe
+D:\Программирование\IJunior\IMBA\Amnesty\obj\Debug\Amnesty.pdb

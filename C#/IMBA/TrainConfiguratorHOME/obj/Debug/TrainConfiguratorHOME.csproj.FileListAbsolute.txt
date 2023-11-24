@@ -1,0 +1,7 @@
+D:\Программирование\IJunior\IMBA\TrainConfiguratorHOME\bin\Debug\TrainConfiguratorHOME.exe.config
+D:\Программирование\IJunior\IMBA\TrainConfiguratorHOME\bin\Debug\TrainConfiguratorHOME.exe
+D:\Программирование\IJunior\IMBA\TrainConfiguratorHOME\bin\Debug\TrainConfiguratorHOME.pdb
+D:\Программирование\IJunior\IMBA\TrainConfiguratorHOME\obj\Debug\TrainConfiguratorHOME.csproj.AssemblyReference.cache
+D:\Программирование\IJunior\IMBA\TrainConfiguratorHOME\obj\Debug\TrainConfiguratorHOME.csproj.CoreCompileInputs.cache
+D:\Программирование\IJunior\IMBA\TrainConfiguratorHOME\obj\Debug\TrainConfiguratorHOME.exe
+D:\Программирование\IJunior\IMBA\TrainConfiguratorHOME\obj\Debug\TrainConfiguratorHOME.pdb

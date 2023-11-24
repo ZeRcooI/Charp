@@ -1,0 +1,7 @@
+D:\Программирование\IJunior\IMBA\GladiatorFightsHOME\bin\Debug\GladiatorFightsHOME.exe.config
+D:\Программирование\IJunior\IMBA\GladiatorFightsHOME\bin\Debug\GladiatorFightsHOME.exe
+D:\Программирование\IJunior\IMBA\GladiatorFightsHOME\bin\Debug\GladiatorFightsHOME.pdb
+D:\Программирование\IJunior\IMBA\GladiatorFightsHOME\obj\Debug\GladiatorFightsHOME.csproj.AssemblyReference.cache
+D:\Программирование\IJunior\IMBA\GladiatorFightsHOME\obj\Debug\GladiatorFightsHOME.csproj.CoreCompileInputs.cache
+D:\Программирование\IJunior\IMBA\GladiatorFightsHOME\obj\Debug\GladiatorFightsHOME.exe
+D:\Программирование\IJunior\IMBA\GladiatorFightsHOME\obj\Debug\GladiatorFightsHOME.pdb

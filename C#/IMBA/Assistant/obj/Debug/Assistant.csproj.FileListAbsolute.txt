@@ -1,0 +1,7 @@
+D:\Программирование\IJunior\IMBA\Assistant\bin\Debug\Assistant.exe.config
+D:\Программирование\IJunior\IMBA\Assistant\bin\Debug\Assistant.exe
+D:\Программирование\IJunior\IMBA\Assistant\bin\Debug\Assistant.pdb
+D:\Программирование\IJunior\IMBA\Assistant\obj\Debug\Assistant.csproj.AssemblyReference.cache
+D:\Программирование\IJunior\IMBA\Assistant\obj\Debug\Assistant.csproj.CoreCompileInputs.cache
+D:\Программирование\IJunior\IMBA\Assistant\obj\Debug\Assistant.exe
+D:\Программирование\IJunior\IMBA\Assistant\obj\Debug\Assistant.pdb

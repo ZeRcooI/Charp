@@ -1,0 +1,7 @@
+D:\Программирование\IJunior\IMBA\ComputerClubHomeWork\bin\Debug\ComputerClubHomeWork.exe.config
+D:\Программирование\IJunior\IMBA\ComputerClubHomeWork\bin\Debug\ComputerClubHomeWork.exe
+D:\Программирование\IJunior\IMBA\ComputerClubHomeWork\bin\Debug\ComputerClubHomeWork.pdb
+D:\Программирование\IJunior\IMBA\ComputerClubHomeWork\obj\Debug\ComputerClubHomeWork.csproj.AssemblyReference.cache
+D:\Программирование\IJunior\IMBA\ComputerClubHomeWork\obj\Debug\ComputerClubHomeWork.csproj.CoreCompileInputs.cache
+D:\Программирование\IJunior\IMBA\ComputerClubHomeWork\obj\Debug\ComputerClubHomeWork.exe
+D:\Программирование\IJunior\IMBA\ComputerClubHomeWork\obj\Debug\ComputerClubHomeWork.pdb

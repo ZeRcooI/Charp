@@ -1,0 +1,7 @@
+D:\Программирование\IJunior\IMBA\UnificationOfTroops\obj\Debug\UnificationOfTroops.csproj.AssemblyReference.cache
+D:\Программирование\IJunior\IMBA\UnificationOfTroops\obj\Debug\UnificationOfTroops.csproj.CoreCompileInputs.cache
+D:\Программирование\IJunior\IMBA\UnificationOfTroops\bin\Debug\UnificationOfTroops.exe.config
+D:\Программирование\IJunior\IMBA\UnificationOfTroops\bin\Debug\UnificationOfTroops.exe
+D:\Программирование\IJunior\IMBA\UnificationOfTroops\bin\Debug\UnificationOfTroops.pdb
+D:\Программирование\IJunior\IMBA\UnificationOfTroops\obj\Debug\UnificationOfTroops.exe
+D:\Программирование\IJunior\IMBA\UnificationOfTroops\obj\Debug\UnificationOfTroops.pdb

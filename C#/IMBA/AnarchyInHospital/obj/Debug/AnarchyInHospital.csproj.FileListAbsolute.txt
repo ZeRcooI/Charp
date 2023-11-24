@@ -1,0 +1,7 @@
+D:\Программирование\IJunior\IMBA\AnarchyInHospital\bin\Debug\AnarchyInHospital.exe.config
+D:\Программирование\IJunior\IMBA\AnarchyInHospital\bin\Debug\AnarchyInHospital.exe
+D:\Программирование\IJunior\IMBA\AnarchyInHospital\bin\Debug\AnarchyInHospital.pdb
+D:\Программирование\IJunior\IMBA\AnarchyInHospital\obj\Debug\AnarchyInHospital.csproj.AssemblyReference.cache
+D:\Программирование\IJunior\IMBA\AnarchyInHospital\obj\Debug\AnarchyInHospital.csproj.CoreCompileInputs.cache
+D:\Программирование\IJunior\IMBA\AnarchyInHospital\obj\Debug\AnarchyInHospital.exe
+D:\Программирование\IJunior\IMBA\AnarchyInHospital\obj\Debug\AnarchyInHospital.pdb

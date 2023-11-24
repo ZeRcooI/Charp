@@ -1,0 +1,7 @@
+D:\Программирование\IJunior\IMBA\WeaponsReport\bin\Debug\WeaponsReport.exe.config
+D:\Программирование\IJunior\IMBA\WeaponsReport\bin\Debug\WeaponsReport.exe
+D:\Программирование\IJunior\IMBA\WeaponsReport\bin\Debug\WeaponsReport.pdb
+D:\Программирование\IJunior\IMBA\WeaponsReport\obj\Debug\WeaponsReport.csproj.AssemblyReference.cache
+D:\Программирование\IJunior\IMBA\WeaponsReport\obj\Debug\WeaponsReport.csproj.CoreCompileInputs.cache
+D:\Программирование\IJunior\IMBA\WeaponsReport\obj\Debug\WeaponsReport.exe
+D:\Программирование\IJunior\IMBA\WeaponsReport\obj\Debug\WeaponsReport.pdb

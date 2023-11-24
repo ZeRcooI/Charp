@@ -1,0 +1,7 @@
+D:\Программирование\IJunior\IMBA\DataBaseHOME\bin\Debug\DataBaseHOME.exe.config
+D:\Программирование\IJunior\IMBA\DataBaseHOME\bin\Debug\DataBaseHOME.exe
+D:\Программирование\IJunior\IMBA\DataBaseHOME\bin\Debug\DataBaseHOME.pdb
+D:\Программирование\IJunior\IMBA\DataBaseHOME\obj\Debug\DataBaseHOME.csproj.AssemblyReference.cache
+D:\Программирование\IJunior\IMBA\DataBaseHOME\obj\Debug\DataBaseHOME.csproj.CoreCompileInputs.cache
+D:\Программирование\IJunior\IMBA\DataBaseHOME\obj\Debug\DataBaseHOME.exe
+D:\Программирование\IJunior\IMBA\DataBaseHOME\obj\Debug\DataBaseHOME.pdb

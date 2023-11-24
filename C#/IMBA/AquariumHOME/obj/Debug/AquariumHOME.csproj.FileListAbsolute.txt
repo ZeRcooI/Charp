@@ -1,0 +1,7 @@
+D:\Программирование\IJunior\IMBA\AquariumHOME\bin\Debug\AquariumHOME.exe.config
+D:\Программирование\IJunior\IMBA\AquariumHOME\bin\Debug\AquariumHOME.exe
+D:\Программирование\IJunior\IMBA\AquariumHOME\bin\Debug\AquariumHOME.pdb
+D:\Программирование\IJunior\IMBA\AquariumHOME\obj\Debug\AquariumHOME.csproj.AssemblyReference.cache
+D:\Программирование\IJunior\IMBA\AquariumHOME\obj\Debug\AquariumHOME.csproj.CoreCompileInputs.cache
+D:\Программирование\IJunior\IMBA\AquariumHOME\obj\Debug\AquariumHOME.exe
+D:\Программирование\IJunior\IMBA\AquariumHOME\obj\Debug\AquariumHOME.pdb

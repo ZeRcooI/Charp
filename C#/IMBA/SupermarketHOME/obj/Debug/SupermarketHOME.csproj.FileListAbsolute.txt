@@ -1,0 +1,7 @@
+D:\Программирование\IJunior\IMBA\SupermarketHOME\bin\Debug\SupermarketHOME.exe.config
+D:\Программирование\IJunior\IMBA\SupermarketHOME\bin\Debug\SupermarketHOME.exe
+D:\Программирование\IJunior\IMBA\SupermarketHOME\bin\Debug\SupermarketHOME.pdb
+D:\Программирование\IJunior\IMBA\SupermarketHOME\obj\Debug\SupermarketHOME.csproj.AssemblyReference.cache
+D:\Программирование\IJunior\IMBA\SupermarketHOME\obj\Debug\SupermarketHOME.csproj.CoreCompileInputs.cache
+D:\Программирование\IJunior\IMBA\SupermarketHOME\obj\Debug\SupermarketHOME.exe
+D:\Программирование\IJunior\IMBA\SupermarketHOME\obj\Debug\SupermarketHOME.pdb

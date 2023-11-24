@@ -1,0 +1,7 @@
+D:\Программирование\IJunior\IMBA\IMBA\bin\Debug\IMBA.exe.config
+D:\Программирование\IJunior\IMBA\IMBA\bin\Debug\IMBA.exe
+D:\Программирование\IJunior\IMBA\IMBA\bin\Debug\IMBA.pdb
+D:\Программирование\IJunior\IMBA\IMBA\obj\Debug\IMBA.csproj.AssemblyReference.cache
+D:\Программирование\IJunior\IMBA\IMBA\obj\Debug\IMBA.csproj.CoreCompileInputs.cache
+D:\Программирование\IJunior\IMBA\IMBA\obj\Debug\IMBA.exe
+D:\Программирование\IJunior\IMBA\IMBA\obj\Debug\IMBA.pdb

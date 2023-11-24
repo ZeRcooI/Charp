@@ -1,0 +1,7 @@
+D:\Программирование\IJunior\IMBA\TopServerPlayers\bin\Debug\TopServerPlayers.exe.config
+D:\Программирование\IJunior\IMBA\TopServerPlayers\bin\Debug\TopServerPlayers.exe
+D:\Программирование\IJunior\IMBA\TopServerPlayers\bin\Debug\TopServerPlayers.pdb
+D:\Программирование\IJunior\IMBA\TopServerPlayers\obj\Debug\TopServerPlayers.csproj.AssemblyReference.cache
+D:\Программирование\IJunior\IMBA\TopServerPlayers\obj\Debug\TopServerPlayers.csproj.CoreCompileInputs.cache
+D:\Программирование\IJunior\IMBA\TopServerPlayers\obj\Debug\TopServerPlayers.exe
+D:\Программирование\IJunior\IMBA\TopServerPlayers\obj\Debug\TopServerPlayers.pdb

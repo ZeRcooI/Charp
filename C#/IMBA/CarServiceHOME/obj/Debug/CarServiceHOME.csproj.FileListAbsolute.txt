@@ -1,0 +1,7 @@
+D:\Программирование\IJunior\IMBA\CarServiceHOME\bin\Debug\CarServiceHOME.exe.config
+D:\Программирование\IJunior\IMBA\CarServiceHOME\bin\Debug\CarServiceHOME.exe
+D:\Программирование\IJunior\IMBA\CarServiceHOME\bin\Debug\CarServiceHOME.pdb
+D:\Программирование\IJunior\IMBA\CarServiceHOME\obj\Debug\CarServiceHOME.csproj.AssemblyReference.cache
+D:\Программирование\IJunior\IMBA\CarServiceHOME\obj\Debug\CarServiceHOME.csproj.CoreCompileInputs.cache
+D:\Программирование\IJunior\IMBA\CarServiceHOME\obj\Debug\CarServiceHOME.exe
+D:\Программирование\IJunior\IMBA\CarServiceHOME\obj\Debug\CarServiceHOME.pdb

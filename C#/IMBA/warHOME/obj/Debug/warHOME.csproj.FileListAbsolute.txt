@@ -1,0 +1,7 @@
+D:\Программирование\IJunior\IMBA\warHOME\bin\Debug\warHOME.exe.config
+D:\Программирование\IJunior\IMBA\warHOME\bin\Debug\warHOME.exe
+D:\Программирование\IJunior\IMBA\warHOME\bin\Debug\warHOME.pdb
+D:\Программирование\IJunior\IMBA\warHOME\obj\Debug\warHOME.csproj.AssemblyReference.cache
+D:\Программирование\IJunior\IMBA\warHOME\obj\Debug\warHOME.csproj.CoreCompileInputs.cache
+D:\Программирование\IJunior\IMBA\warHOME\obj\Debug\warHOME.exe
+D:\Программирование\IJunior\IMBA\warHOME\obj\Debug\warHOME.pdb

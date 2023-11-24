@@ -1,0 +1,7 @@
+D:\Программирование\IJunior\IMBA\StorageBook\bin\Debug\StorageBook.exe.config
+D:\Программирование\IJunior\IMBA\StorageBook\bin\Debug\StorageBook.exe
+D:\Программирование\IJunior\IMBA\StorageBook\bin\Debug\StorageBook.pdb
+D:\Программирование\IJunior\IMBA\StorageBook\obj\Debug\StorageBook.csproj.AssemblyReference.cache
+D:\Программирование\IJunior\IMBA\StorageBook\obj\Debug\StorageBook.csproj.CoreCompileInputs.cache
+D:\Программирование\IJunior\IMBA\StorageBook\obj\Debug\StorageBook.exe
+D:\Программирование\IJunior\IMBA\StorageBook\obj\Debug\StorageBook.pdb
