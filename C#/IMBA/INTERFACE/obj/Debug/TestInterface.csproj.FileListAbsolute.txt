@@ -1,0 +1,7 @@
+D:\Программирование\IJunior\IMBA\interface\bin\Debug\@interface.exe.config
+D:\Программирование\IJunior\IMBA\interface\bin\Debug\@interface.exe
+D:\Программирование\IJunior\IMBA\interface\bin\Debug\@interface.pdb
+D:\Программирование\IJunior\IMBA\interface\obj\Debug\TestInterface.csproj.AssemblyReference.cache
+D:\Программирование\IJunior\IMBA\interface\obj\Debug\TestInterface.csproj.CoreCompileInputs.cache
+D:\Программирование\IJunior\IMBA\interface\obj\Debug\@interface.exe
+D:\Программирование\IJunior\IMBA\interface\obj\Debug\@interface.pdb
