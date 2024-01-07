@@ -1,15 +1,34 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace IMBA
+namespace YaUnior
 {
-    internal class IMBA
+    class Program
     {
         static void Main(string[] args)
         {
+            string symbolString = "";
+
+            Console.WriteLine("Вывести имя в прямоугольник из символа, который введет сам пользователь.");
+
+            Console.Write("Выберите символ: ");
+
+            char symbolForName = Convert.ToChar(Console.Read());
+
+            Console.ReadLine();
+
+            Console.Write("Введите Ваше Имя: ");
+            string name = Console.ReadLine();
+
+            string lineMiddle = $"{symbolForName} {name} {symbolForName}";
+
+            for (int i = 0; i < lineMiddle.Length; i++)
+            {
+                symbolString += symbolForName;
+            }
+
+            Console.WriteLine($"\n{symbolString}\n{lineMiddle}\n{symbolString}");
+
+            Console.ReadKey();
         }
     }
 }

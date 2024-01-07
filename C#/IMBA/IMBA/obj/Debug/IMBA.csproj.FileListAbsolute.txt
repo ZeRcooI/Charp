@@ -5,3 +5,10 @@ D:\Программирование\IJunior\IMBA\IMBA\obj\Debug\IMBA.csproj.Asse
 D:\Программирование\IJunior\IMBA\IMBA\obj\Debug\IMBA.csproj.CoreCompileInputs.cache
 D:\Программирование\IJunior\IMBA\IMBA\obj\Debug\IMBA.exe
 D:\Программирование\IJunior\IMBA\IMBA\obj\Debug\IMBA.pdb
+D:\Git\Course\Charp\C#\IMBA\IMBA\obj\Debug\IMBA.csproj.AssemblyReference.cache
+D:\Git\Course\Charp\C#\IMBA\IMBA\obj\Debug\IMBA.csproj.CoreCompileInputs.cache
+D:\Git\Course\Charp\C#\IMBA\IMBA\obj\Debug\IMBA.exe
+D:\Git\Course\Charp\C#\IMBA\IMBA\obj\Debug\IMBA.pdb
+D:\Git\Course\Charp\C#\IMBA\IMBA\bin\Debug\IMBA.exe.config
+D:\Git\Course\Charp\C#\IMBA\IMBA\bin\Debug\IMBA.exe
+D:\Git\Course\Charp\C#\IMBA\IMBA\bin\Debug\IMBA.pdb
